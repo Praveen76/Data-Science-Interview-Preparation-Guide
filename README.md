@@ -18,4 +18,7 @@
 # LLMs Interview Preparation Guide:
 [LLMs Interview Preparation Guide](https://github.com/Praveen76/LLM-Projects-Archive)
 
+# Python Interview Preparation Guide:
+[Python Interview Preparation Guide](https://github.com/Praveen76/Python-coding-Interview-preparation)
+
 
