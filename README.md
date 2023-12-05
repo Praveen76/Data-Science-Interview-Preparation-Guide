@@ -48,3 +48,5 @@ Contributions are welcome! If you know of any other valuable resources, intervie
 
 Happy learning and best of luck with your Data Science interviews! 📚💡
 
+# **About Me**:
+I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
