@@ -46,6 +46,10 @@ Welcome to the Data Scientist Interview Preparation repository! 🚀 Here, you w
 
 - [Python Interview Preparation Guide](https://github.com/Praveen76/Python-coding-Interview-preparation): A collection of Python interview questions and exercises.
 
+## SQL
+
+- [SQL Interview Preparation Guide](https://github.com/Praveen76/SQL-Interview-Questions): A collection of SQL interview questions and exercises.
+
 ## Contributing
 
 Contributions are welcome! If you know of any other valuable resources, interview questions, or have improvements to the existing content, feel free to open an issue or submit a pull request.
