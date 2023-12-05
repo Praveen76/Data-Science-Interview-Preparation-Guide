@@ -20,13 +20,17 @@ Welcome to the Data Scientist Interview Preparation repository! 🚀 Here, you w
 
 - [NLP Interview Preparation](https://github.com/Praveen76/NLP-Interview-preparation): A collection of natural language processing interview questions and answers.
 
+## Deep Learning
+
+- [Deep Learning Interview Preparation](https://github.com/Praveen76/Deep-Learning-Interview-Preparation): A comprehensive list of deep learning interview questions and answers.
+
 ## Computer Vision
 
 - [Computer Vision Interview Preparation](https://github.com/Praveen76/Computer-Vision-Interview-Preparation): A repository containing computer vision interview questions with detailed answers.
 
-## Deep Learning
+## Statistics
 
-- [Deep Learning Interview Preparation](https://github.com/Praveen76/Deep-Learning-Interview-Preparation): A comprehensive list of deep learning interview questions and answers.
+- [Statistics Interview Preparation](https://github.com/Praveen76/Statistics-Interview-Preparation-Guide): A comprehensive collection of Statistics interview questions and answers.
 
 ## Recommendation Systems
 
